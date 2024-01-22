@@ -1,0 +1,2 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Text To Word</title></head><body><p>n = int(input().strip())</p>
+<p>if n % 2 == 1:<br>&nbsp; &nbsp; print("Weird")<br>elif n % 2 == 0 and 2 &lt;= n &lt;= 5:<br>&nbsp; &nbsp; print("Not Weird")<br>elif n % 2 == 0 and 6 &lt;= n &lt;= 20:<br>&nbsp; &nbsp; print("Weird")<br>elif n % 2 == 0 and n &gt; 20:<br>&nbsp; &nbsp; print("Not Weird")</p></body></html>

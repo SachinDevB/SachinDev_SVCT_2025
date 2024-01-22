@@ -1,0 +1,3 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Text To Word</title></head><body><p>if __name__ == '__main__':<br>&nbsp; &nbsp; a = int(input())<br>&nbsp; &nbsp; b = int(input())</p>
+<p>&nbsp; &nbsp; # Integer division<br>&nbsp; &nbsp; result_integer = a // b<br>&nbsp; &nbsp; print(result_integer)</p>
+<p>&nbsp; &nbsp; # Float division<br>&nbsp; &nbsp; result_float = a / b<br>&nbsp; &nbsp; print(result_float)</p></body></html>
